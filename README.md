@@ -16,7 +16,8 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 ## Built With
 
-* [Javascript (https://www.javascript.com/) - High-level, interpreted programming language
+* [jQuery] (https://jquery.com/) - Fast, small, and feature-rich JavaScript library
+* [Javascript] (https://www.javascript.com/) - High-level, interpreted programming language
 * [HTML] (https://www.html.com/) - Standard markup language
 * [CSS] (https://css.com) - Style sheet language
 
