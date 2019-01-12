@@ -10,7 +10,7 @@ You can simply start playing by clicking on the webpage link provided at the top
 
 A modern web-browser like Safari, Chrome, Microsoft-Edge, Mozilla Firefox, etc.
 
-### Running
+### Executing
 
 Double-click the "index.html" file after unzipping the downloaded zip file.
 
